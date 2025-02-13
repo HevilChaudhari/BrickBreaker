@@ -1,0 +1,354 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -4.659999847412109,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -3.3600001335144045,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -2.06000018119812,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -0.7600002288818359,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 0.5399997234344482,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 1.8399996757507325,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 3.1399996280670168,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 4.439999580383301,
+                "y": 2.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -4.659999847412109,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -3.3600001335144045,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -2.06000018119812,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -0.7600002288818359,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 0.5399997234344482,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 1.8399996757507325,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 3.1399996280670168,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 4.439999580383301,
+                "y": 2.0
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -4.659999847412109,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -3.3600001335144045,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -2.06000018119812,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -0.7600002288818359,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 0.5399997234344482,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 1.8399996757507325,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 3.1399996280670168,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": 4.439999580383301,
+                "y": 1.5
+            },
+            "objectTag": "MultihitBrick"
+        },
+        {
+            "position": {
+                "x": -5.960000038146973,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -4.659999847412109,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -3.3600001335144045,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -2.06000018119812,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -0.7600002288818359,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 0.5399997234344482,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 1.8399996757507325,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 3.1399996280670168,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 4.439999580383301,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 5.739999771118164,
+                "y": 3.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -5.960000038146973,
+                "y": 2.5
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 5.739999771118164,
+                "y": 2.5
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -5.960000038146973,
+                "y": 2.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 5.739999771118164,
+                "y": 2.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -5.960000038146973,
+                "y": 1.5
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 5.739999771118164,
+                "y": 1.5
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -5.960000038146973,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 5.739999771118164,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -4.659999847412109,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -3.3600001335144045,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -2.06000018119812,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": -0.7600002288818359,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 0.5399997234344482,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 1.8399996757507325,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 3.1399996280670168,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        },
+        {
+            "position": {
+                "x": 4.439999580383301,
+                "y": 1.0
+            },
+            "objectTag": "SimpleBrick"
+        }
+    ]
+}
